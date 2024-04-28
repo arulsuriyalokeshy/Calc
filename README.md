@@ -91,7 +91,7 @@ Publish the website in the given URL.
 ## OUTPUT:
 ![alt text](<Screenshot 2024-04-28 210922.png>)
 
-![alt text](<Screenshot 2024-04-28 210922.png>)
+![alt text](<Screenshot 2024-04-28 210940.png>)
 
 
 ## RESULT:
